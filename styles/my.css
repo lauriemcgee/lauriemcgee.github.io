@@ -25,6 +25,7 @@ p {
   background: url("../img/ls.png") no-repeat fixed;
   /*text-align: center;*/
   background-size: 100% 100%;
+  max-width: 100%;
   z-index: -350;
 }
 
@@ -32,6 +33,7 @@ p {
   background: url("../img/kurtbackground.png") no-repeat fixed 100%;
   background-size: 100% 100%;
   z-index: -350;
+  max-width: 100%;
 
 }
 
@@ -40,6 +42,7 @@ p {
   background: url("../img/sufjan.png") no-repeat fixed;
   background-size: 100% 100%;
   z-index: -350;
+  max-width: 100%;
 }
 
 div>.inner-spacer {
