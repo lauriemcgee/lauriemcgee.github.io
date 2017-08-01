@@ -70,4 +70,11 @@ div>.inner-spacer {
   background: black;
 }
 
+.flourish {
+  display: flex;
+  justify-content: center;
+  padding: 1.5%;
+}
+
+
 
