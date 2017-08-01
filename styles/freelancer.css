@@ -23,7 +23,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #000000;
+  color: #16d1df;
 }
 
 .fuid-background>header {
@@ -267,7 +267,7 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #000000;
+  color: #16d1df;
   background: white;
   border: solid 2px white;
 }
